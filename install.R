@@ -1,6 +1,6 @@
-BiocManager::install("igraph")
 install.packages("tidyverse")
-install.packages("phangorn")
 install.packages("BiocManager")
+BiocManager::install("igraph")
 BiocManager::install("ggtree")
 BiocManager::install("msa")
+install.packages("phangorn")
