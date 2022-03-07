@@ -1,3 +1,4 @@
+BiocManager::install("igraph")
 install.packages("tidyverse")
 install.packages("phangorn")
 install.packages("BiocManager")
